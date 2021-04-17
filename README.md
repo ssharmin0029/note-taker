@@ -41,5 +41,5 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 - JavaScript 
 
 
-## Demo-Link 
-[team-profile-generator-demo]()
+## Deployed Application 
+[note-taker]()
