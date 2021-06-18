@@ -16,5 +16,22 @@ router.get('/notes', (req, res) => {
     });
 });
 
+router.post('/notes', (req, res) => {
+  fs.readFile(dbPath, 'utf8', (err, data) => {
+    if (err) {
+      res.status(500).json(err);
+    }
+    const notes = JSON.parse(data);
+    const newNote = {...req.body, id:uuidv4()};
+    const updatedNotes = [...notes, newNote];
+
+    fs.writeFile(dbPath, JSON.stringify(updatedNotes), err => {
+      if (err) {
+        res.status(500).json(err);
+      }
+    });
+    res.json(newNote);
+  });
+});
 
 module.exports = router;
