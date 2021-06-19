@@ -16,11 +16,16 @@
 - [Technologies Used](#Technologies-Used)
  -->
 
+
 ## Description 
+This is a Note Taker app that can be used to write and save notes. The focus of this applciation was to use an Express.js back-end to save and retrieve note data from a JSON file. 
 
 
 ## Screenshot
-![alt text](assets/images/final-page-1.png)
+![alt text](public/assets/images/final-page-1.png)
+![alt text](public/assets/images/final-page-2.png)
+![alt text](public/assets/images/final-page-3.png)
+![alt text](public/assets/images/final-page-4.png)
 
 
 ## User Story 
@@ -50,4 +55,4 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 
 ## Deployed Application URL 
-[note-taker](https://note-taker-app-deployed.herokuapp.com/)
+[Note Taker](https://note-taker-app-deployed.herokuapp.com/)
