@@ -6,7 +6,7 @@
 
 ## Table of Contents
 - [Description](#Description)
-- [Demo/Screenshots](#Demo-Screenshots)
+- [Screenshots](#Screenshots)
 - [User Story](#User-Story)
 - [Acceptance Criteria](#Acceptance-Criteria)
 - [Deployed Application URL](#Deployed-Application-URL)
@@ -21,7 +21,7 @@
 This is a Note Taker app that can be used to write and save notes. The focus of this applciation was to use an Express.js back-end to save and retrieve note data from a JSON file. 
 
 
-## Screenshot
+## Screenshots
 ![alt text](public/assets/images/final-page-1.png)
 ![alt text](public/assets/images/final-page-2.png)
 ![alt text](public/assets/images/final-page-3.png)
