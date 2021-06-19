@@ -6,7 +6,7 @@
 
 ## Table of Contents
 - [Description](#Description)
-- [Demo-Screenshots of the App](#Demo-Screenshots-of-the-App)
+- [Demo/Screenshots](#Demo-Screenshots)
 - [User Story](#User-Story)
 - [Acceptance Criteria](#Acceptance-Criteria)
 - [Deployed Application URL](#Deployed-Application-URL)
