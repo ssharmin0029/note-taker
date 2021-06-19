@@ -4,11 +4,23 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-## Screenshot
-![alt text](assets/images/final-page-1.png)
-
+## Table of Contents
+- [Description](#Description)
+- [Demo-Screenshots of the App](#Demo-Screenshots-of-the-App)
+- [User Story](#User-Story)
+- [Acceptance Criteria](#Acceptance-Criteria)
+- [Deployed Application URL](#Deployed-Application-URL)
+<!-- - [Installation](#Installation)
+- [Usage](#Usage)
+- [Navigating the Repository](#Navigating-the-Repository)
+- [Technologies Used](#Technologies-Used)
+ -->
 
 ## Description 
+
+
+## Screenshot
+![alt text](assets/images/final-page-1.png)
 
 
 ## User Story 
@@ -35,10 +47,6 @@ THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ```
-
-
-## Technologies Used:
-- JavaScript 
 
 
 ## Deployed Application URL 
